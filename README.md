@@ -1,15 +1,14 @@
 # CL2007-Data-Communication-Networks-Lab
 
-// Network topology
+![image](https://user-images.githubusercontent.com/93876775/177029957-35b00dc6-65f3-498c-b899-dbd1d8d2d94c.png)
 
+// Network topology
 
 ![image](https://user-images.githubusercontent.com/93876775/177029909-0106bce2-06c1-4d06-83c3-fa0545a492f7.png)
 
 
-
 Star Topology with nCSMA
 ![image](https://user-images.githubusercontent.com/93876775/177029900-5f7d3511-3666-46cf-a1d1-75727c8a204b.png)
-
 
 
 //
