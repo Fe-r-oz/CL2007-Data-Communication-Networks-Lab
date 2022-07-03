@@ -2,65 +2,20 @@
 
 // Network topology
 
-// 
 
-//        n2 n3 n4              .
-
-//         \ | /                .
-
-//          \|/                 .
-
-//     n1--- n0---n5---n9          .
-
-//          /|\                 .
-
-//         / | \                .
-
-//        n8 n7 n6              .
+![image](https://user-images.githubusercontent.com/93876775/177029909-0106bce2-06c1-4d06-83c3-fa0545a492f7.png)
 
 
 
 Star Topology with nCSMA
-//
+![image](https://user-images.githubusercontent.com/93876775/177029900-5f7d3511-3666-46cf-a1d1-75727c8a204b.png)
 
-//        n2 n3 n4              .
-
-//         \ | /                .
-
-//          \|/        n9 n10 n11  n12     .
-                       |   |   |    |
-//     n1--- n0---n5---===============          .
-                        10.1.2.0
-//          /|\                 .
-
-//         / | \                .
-
-//        n8 n7 n6              .
-
-//
 
 
 //
 nCSMA nodes on Both sides, communication from one side to another.
+![image](https://user-images.githubusercontent.com/93876775/177029917-1c87ce30-64cc-4339-96f5-85e4a832e9ac.png)
 
-  //
-    //                                10.1.1.0
-    //           n7   n6   n5                          n2   n3   n4
-    //           |    |    |       point-to-point       |    |   |
-    //       ================== n0 -------------- n1 ================
-    //        LAN 10.1.3.0                               LAN 10.1.2.0
-    
-    
-    
-    nCsma Nodes On Both sides with a P2P connection
-   
-    
-    //                                10.1.1.0
-    //           n7   n6   n5                          n2   n3----n4
-    //           |    |    |       point-to-point       |    |   |
-    //       ================== n0 -------------- n1 ================
-    //        LAN 10.1.3.0                               LAN 10.1.2.0
-    
     
     
     
